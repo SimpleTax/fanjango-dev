@@ -1,0 +1,2 @@
+facepy<0.7,>=0.6.5
+requests>=0.8
